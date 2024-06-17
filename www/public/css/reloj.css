@@ -1,0 +1,15 @@
+.clock {
+    display: flex;
+    align-items: center;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+  }
+  
+  .time {
+    padding: 0.2em 0.5em;
+    background-color: #333;
+    color: #fff;
+    border-radius: 0.2em;
+    margin: 0 0.2em;
+  }
